@@ -63,6 +63,12 @@ This project also includes integrated AI features like natural language conversa
 	- Enter the gmail app password (this is not the gmail login password. You have to generate app password  to send emails from python.) 
 	- Follow following steps : https://itsupport.umd.edu/itsupport?id=kb_article_view&sysparm_article=KB0015112
 
+Create a new Secret-Key
+<img width="1366" height="719" alt="Screenshot (303)" src="https://github.com/user-attachments/assets/8ca0c32e-be8b-40d5-8c1a-16810b2a97ef" />
+
+
+
+
 5. **Enter the openai key**
  
    Enter the required email and phone number in main.py.
