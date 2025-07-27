@@ -65,13 +65,14 @@ This project also includes integrated AI features like natural language conversa
 
 Steps are shown below as well:
 
-<img width="1366" height="768" alt="Screenshot (304)" src="https://github.com/user-attachments/assets/3cf012c1-ce10-46e9-9d5a-a608e172c42a" />
+After clicking on the above link, you will be directed to the below page -
+
+<img width="1366" height="713" alt="Screenshot (304)" src="https://github.com/user-attachments/assets/4bb9e69d-b290-4913-80c5-6c2d4dbaf6ed" />
 
 
 Generate App Password -
 
-<img width="1366" height="768" alt="Screenshot (305)" src="https://github.com/user-attachments/assets/f6daf335-90e8-42b5-b3ec-eec82622cc3d" />
-
+<img width="1366" height="689" alt="Screenshot (305)" src="https://github.com/user-attachments/assets/35b47c3f-1bf7-461d-b045-ff2af6efa273" />
 
 
 Create a new Secret-Key -
