@@ -95,7 +95,7 @@ Create a new Secret-Key -
    ```bash
    python main.py
 
-## 📸 Screenshots & 📹 Demos
+## 📸 Demos
 
 - #### Who are you?
 	- https://drive.google.com/file/d/13k1_-248IUHkOTU_A7r9b0WZi6NRuRl1/view?usp=drive_link
@@ -156,6 +156,7 @@ Create a new Secret-Key -
 ###### The Image Generation and Ask AI Features are commented out (they are currently disabled due to paid API 😭), but you can easily access the code from my repo.😊
 
 ## 🔐 AI/API Feature Notes
+
 The assistant includes AI functionality such as:
 
 - Asking Jarvis questions (ask ai)
