@@ -128,7 +128,9 @@ Create a new Secret-Key -
 - https://drive.google.com/file/d/1oSnX3dxK2Ba3ozhmhdgFHI78xqnoQhYO/view?usp=drive_link
 
 - #### Image Generation
-- https://drive.google.com/file/d/1JU2Vkv5s0mItgFXiq5ntdaerUkuwcQ7t/view?usp=drive_link
+	- https://drive.google.com/file/d/1JU2Vkv5s0mItgFXiq5ntdaerUkuwcQ7t/view?usp=drive_link
+	- Image generation was implemented , but the feature is temporarily disabled due to API access limitations.
+
 
 - #### Greetings
 - https://drive.google.com/file/d/1SfMQHfJfcX8t8otxMWSvlyccgqh29cq1/view?usp=drive_link
