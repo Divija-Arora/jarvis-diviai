@@ -4,7 +4,7 @@
 
 This project also includes integrated AI features like natural language conversation (ChatGPT API) and image generation. However, due to paid API restrictions, these features are currently commented out. The code is ready and functional for anyone with access to premium API keys to enable them.
 
-(Master Branch)
+(Please refer Master Branch)
 ---
 
 ## ✨ Features
