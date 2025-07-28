@@ -98,50 +98,62 @@ Create a new Secret-Key -
 ## 📸 Screenshots & 📹 Demos
 
 - #### Who are you?
-- https://drive.google.com/file/d/13k1_-248IUHkOTU_A7r9b0WZi6NRuRl1/view?usp=drive_link
+	- https://drive.google.com/file/d/13k1_-248IUHkOTU_A7r9b0WZi6NRuRl1/view?usp=drive_link
+	- Introductin of Jarvis - diviai.
 
 - #### DOB
-- https://drive.google.com/file/d/1vbFVXr4aYtJ1JYA17YB_e9xEy9amWfdy/view?usp=drive_link
+	- https://drive.google.com/file/d/1vbFVXr4aYtJ1JYA17YB_e9xEy9amWfdy/view?usp=drive_link
+	- Jarvis tells its Date of Birth.
   
 - #### WhatsApp message demo
-- https://drive.google.com/file/d/15f4bn_Kz89KwfVix06DM1jTPpUtsPJdP/view?usp=drive_link
+	- https://drive.google.com/file/d/15f4bn_Kz89KwfVix06DM1jTPpUtsPJdP/view?usp=drive_link
+	- Shows how Jervis sends a whatsapp message.
 
-- #### Today's Time
-- https://drive.google.com/file/d/1Y01pRiiSfY3lFDKPI2YHQ3rEDYKg39kW/view?usp=drive_link
+- #### Current Time
+	- https://drive.google.com/file/d/1Y01pRiiSfY3lFDKPI2YHQ3rEDYKg39kW/view?usp=drive_link
+	- Tells current time.
 
 - #### Today's Date
-- https://drive.google.com/file/d/1VYPBaE9hVbMhaBcSe8-2bvXPtRC_6ADO/view?usp=drive_link
+	- https://drive.google.com/file/d/1VYPBaE9hVbMhaBcSe8-2bvXPtRC_6ADO/view?usp=drive_link
+	- Tells today's date.
 
+- #### Greetings
+	- https://drive.google.com/file/d/1SfMQHfJfcX8t8otxMWSvlyccgqh29cq1/view?usp=drive_link
+	- Greets the user.
+   
 - #### Special Geetings
-- https://drive.google.com/file/d/1oCtpfyM9zOkO4k6cxV3aqw-UdLBM2N5d/view?usp=drive_link
+	- https://drive.google.com/file/d/1oCtpfyM9zOkO4k6cxV3aqw-UdLBM2N5d/view?usp=drive_link
+	- Showing how it responds to special greatings.
 
 - #### Playing Bhajan
-- https://drive.google.com/file/d/1QwsyXG7xn32oXihs-Dl8BnBHT9JXxvrl/view?usp=drive_link
+	- https://drive.google.com/file/d/1QwsyXG7xn32oXihs-Dl8BnBHT9JXxvrl/view?usp=drive_link
+	- Plays devotional music on YouTube.
 
 - #### Playing music
-- https://drive.google.com/file/d/16WpjVaIM5mIAp6o9vUTMJS0doW8yEW9A/view?usp=drive_link
+	- https://drive.google.com/file/d/16WpjVaIM5mIAp6o9vUTMJS0doW8yEW9A/view?usp=drive_link
+	- Plays random music via YouTube.
 
 - #### Open Youtube
-- https://drive.google.com/file/d/1DpZ0SEhlf6gHFjmNI7zkYax0KVXSEUxR/view?usp=drive_link
+	- https://drive.google.com/file/d/1DpZ0SEhlf6gHFjmNI7zkYax0KVXSEUxR/view?usp=drive_link
+	- Opens YouTube in the web browser.
 
 - #### Tell a joke
-- https://drive.google.com/file/d/1oSnX3dxK2Ba3ozhmhdgFHI78xqnoQhYO/view?usp=drive_link
+	- https://drive.google.com/file/d/1oSnX3dxK2Ba3ozhmhdgFHI78xqnoQhYO/view?usp=drive_link
+	- Responds with a random joke.
+
+- #### General Query
+	- https://drive.google.com/file/d/1Pbh3L9hZzVV2NbnDcYosApdPT-liBdhF/view?usp=drive_link
+	- Responds to general questions.
 
 - #### Image Generation
 	- https://drive.google.com/file/d/1JU2Vkv5s0mItgFXiq5ntdaerUkuwcQ7t/view?usp=drive_link
 	- Image generation was implemented , but the feature is temporarily disabled due to API access limitations.
 
-
-- #### Greetings
-- https://drive.google.com/file/d/1SfMQHfJfcX8t8otxMWSvlyccgqh29cq1/view?usp=drive_link
-
-- #### General Query
-- https://drive.google.com/file/d/1Pbh3L9hZzVV2NbnDcYosApdPT-liBdhF/view?usp=drive_link
-
 - #### Ask AI
-- https://drive.google.com/file/d/1VYPBaE9hVbMhaBcSe8-2bvXPtRC_6ADO/view?usp=drive_link
+	- https://drive.google.com/file/d/1VYPBaE9hVbMhaBcSe8-2bvXPtRC_6ADO/view?usp=drive_link
+	- Gives answers using AI (feature works via commented OpenAI code).
 
-
+###### The Image Generation and Ask AI Features are commented out (they are currently disabled due to paid API 😭), but you can easily access the code from my repo.😊
 
 ## 🔐 AI/API Feature Notes
 The assistant includes AI functionality such as:
