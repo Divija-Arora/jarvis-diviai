@@ -96,13 +96,49 @@ Create a new Secret-Key -
    python main.py
 
 ## 📸 Screenshots & 📹 Demos
-- 🎥 [ ] main_screen.mp4 - Shows command and response
 
-- 🖼️ [ ] Screenshot showing to-do list functionality
+- #### Who are you?
+- https://drive.google.com/file/d/13k1_-248IUHkOTU_A7r9b0WZi6NRuRl1/view?usp=drive_link
 
-- 📤 [ ] WhatsApp message demo
+- #### DOB
+- https://drive.google.com/file/d/1vbFVXr4aYtJ1JYA17YB_e9xEy9amWfdy/view?usp=drive_link
+  
+- #### WhatsApp message demo
+- https://drive.google.com/file/d/15f4bn_Kz89KwfVix06DM1jTPpUtsPJdP/view?usp=drive_link
 
-- 🔊 [ ] Audio interaction snippet
+- #### Today's Time
+- https://drive.google.com/file/d/1Y01pRiiSfY3lFDKPI2YHQ3rEDYKg39kW/view?usp=drive_link
+
+- #### Today's Date
+- https://drive.google.com/file/d/1VYPBaE9hVbMhaBcSe8-2bvXPtRC_6ADO/view?usp=drive_link
+
+- #### Special Geetings
+- https://drive.google.com/file/d/1oCtpfyM9zOkO4k6cxV3aqw-UdLBM2N5d/view?usp=drive_link
+
+- #### Playing Bhajan
+- https://drive.google.com/file/d/1QwsyXG7xn32oXihs-Dl8BnBHT9JXxvrl/view?usp=drive_link
+
+- #### Playing music
+- https://drive.google.com/file/d/16WpjVaIM5mIAp6o9vUTMJS0doW8yEW9A/view?usp=drive_link
+
+- #### Open Youtube
+- https://drive.google.com/file/d/1DpZ0SEhlf6gHFjmNI7zkYax0KVXSEUxR/view?usp=drive_link
+
+- #### Tell a joke
+- https://drive.google.com/file/d/1oSnX3dxK2Ba3ozhmhdgFHI78xqnoQhYO/view?usp=drive_link
+
+- #### Image Generation
+- https://drive.google.com/file/d/1JU2Vkv5s0mItgFXiq5ntdaerUkuwcQ7t/view?usp=drive_link
+
+- #### Greetings
+- https://drive.google.com/file/d/1SfMQHfJfcX8t8otxMWSvlyccgqh29cq1/view?usp=drive_link
+
+- #### General Query
+- https://drive.google.com/file/d/1Pbh3L9hZzVV2NbnDcYosApdPT-liBdhF/view?usp=drive_link
+
+- #### Ask AI
+- https://drive.google.com/file/d/1VYPBaE9hVbMhaBcSe8-2bvXPtRC_6ADO/view?usp=drive_link
+
 
 
 ## 🔐 AI/API Feature Notes
